@@ -1,0 +1,26 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- ===== PIRÁMIDE ===== -->
+  <g transform="translate(60, 25)">
+    <polygon points="55,0 105,0 80,30" fill="#b8b8b8"/>
+    <polygon points="45,30 115,30 115,65 45,65" fill="#8b7a8b"/>
+    <path d="M 35,65 L 125,65 L 125,105 L 60,105 L 35,65 Z" fill="#6b556b"/>
+    <polygon points="25,105 135,105 135,150 25,150" fill="#1a1a1a"/>
+    <polygon points="15,150 145,150 135,185 25,185" fill="#1a1a1a"/>
+    <text x="80" y="173"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="22" font-weight="bold" fill="white"
+          text-anchor="middle" letter-spacing="8">S.R.L.</text>
+  </g>
+
+  <!-- ===== TEXTO ===== -->
+  <text x="250" y="120"
+        font-family="Arial Black, Arial, sans-serif"
+        font-size="90" font-weight="900" fill="#000000"
+        letter-spacing="3">ASCENSORES</text>
+
+  <text x="250" y="200"
+        font-family="Arial Black, Arial, sans-serif"
+        font-size="85" font-weight="900" fill="#000000"
+        letter-spacing="15">GALARZA</text>
+</svg>
